@@ -1,26 +1,24 @@
 {
-  "name": "wechat",
-  "version": "2.0.0",
-  "description": "wechat develop",
-  "main": "index/app.js",
-  "dependencies": {
-    "koa": "^2.2.0",
-    "sha1": "",
-    "bluebird": "",
-    "request": "",
-    "raw-body": "",
-    "xml2js": "",
-    "ejs": "",
-    "heredoc": "",
-    "lodash": ""
-  },
+  "name": "wechatpublic",
+  "version": "1.0.0",
+  "description": "wechatpublic develop",
+  "main": "./weChat/weChat.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spursy/WeChat/"
+    "url": "git+https://github.com/spursy/WeChatPublic.git"
   },
-  "author": "spursyy",
-  "license": "ISC"
+  "keywords": [
+    "Yyang18501"
+  ],
+  "author": "Spusy Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spursy/WeChatPublic/issues"
+  },
+  "homepage": "https://github.com/spursy/WeChatPublic#readme"
 }
