@@ -2,7 +2,7 @@
   "name": "wechatpublic",
   "version": "1.0.0",
   "description": "wechatpublic develop",
-  "main": "./weChat/weChat.js",
+  "main": "./weChat/weChatPublic.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
